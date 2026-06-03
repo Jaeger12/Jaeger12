@@ -22,13 +22,14 @@
 
 ## 🎮 Play a Game on my Profile!
 
-### 🟩 Play Minesweeper
+## 🎮 Play Minesweeper on My Profile!
+
 *Click any cell below to start a game of Minesweeper right inside GitHub! (Powered by GitHub Actions)*
 
 | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C0%7C0) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C1%7C0) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C2%7C0) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C3%7C0) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C4%7C0) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C5%7C0) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C6%7C0) |
-| [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C0%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C1%7C1) | [⬜️](https://github.com/your-username/your-username/issues/new?title=minesweeper%7C2%7C1) | [⬜️](https://github.com/your-username/your-username/issues/new?title=minesweeper%7C3%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C4%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C5%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C6%7C1) |
+| [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C0%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C1%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C2%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C3%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C4%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C5%7C1) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C6%7C1) |
 | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C0%7C2) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C1%7C2) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C2%7C2) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C3%7C2) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C4%7C2) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C5%7C2) | [⬜️](https://github.com/Jaeger12/Jaeger12/issues/new?title=minesweeper%7C6%7C2) |
 
 ---
