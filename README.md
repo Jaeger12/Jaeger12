@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/nalendraf/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="www.linkedin.com/in/nalendra-fadila-295947289" target="_blank">
+  <a href="https://www.linkedin.com/in/nalendra-fadila-295947289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </p>
