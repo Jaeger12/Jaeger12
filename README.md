@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nalendra Fadila Saskara 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Full-Stack+Web+Developer;Freelance+Copywriter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Freelance+Graphic+Designer" alt="Typing SVG" />
 </p>
 
 ---
