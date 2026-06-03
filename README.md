@@ -8,6 +8,9 @@
 ## ✨ About Me
 
 - 🏡 I'm currently an Information Systems undergrad at UPN "Veteran" East Java.
+- 🎨 I'm currently working as a Freelance Graphic Designer and Video Editor.
+- 💻 I'm currently exploring Front-end development and UI/UX Design.
+- ⚙️ I'm currently learning Back-end development and database management.
 
 ## 🌐 My Social Media:
 
